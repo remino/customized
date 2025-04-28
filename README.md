@@ -8,14 +8,14 @@ Themes and profiles for various apps.
 
 <!-- mtoc-start -->
 
-* [About](#about)
-* [Getting Started](#getting-started)
-  * [Installation](#installation)
-* [Neovim](#neovim)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+- [About](#about)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+- [Neovim](#neovim)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 <!-- mtoc-end -->
 
@@ -43,8 +43,8 @@ git clone https://github.com/remino/customized.git
 
 ## Neovim
 
-See [base46-cyberwave](https://github.com/remino/base46-cyberwave.nvim) for a
-Neovim theme with the same vibes.
+See [base46-cyberwave.nvim](https://github.com/remino/base46-cyberwave.nvim) for
+a Neovim theme with the same vibes.
 
 [Back to top](#customized)
 
