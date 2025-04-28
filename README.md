@@ -43,8 +43,8 @@ git clone https://github.com/remino/customized.git
 
 ## Neovim
 
-See [base46-cyberwave.nvim](https://github.com/remino/base46-cyberwave.nvim) for
-a Neovim theme with the same vibes.
+See [_base46-cyberwave.nvim_](https://github.com/remino/base46-cyberwave.nvim)
+for a Neovim theme with the same vibes.
 
 [Back to top](#customized)
 
