@@ -13,6 +13,7 @@ Themes and profiles for various apps.
   - [Installation](#installation)
 - [Neovim](#neovim)
 - [Usage](#usage)
+- [Windows Terminal](#windows-terminal)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -51,6 +52,13 @@ for a Neovim theme with the same vibes.
 ## Usage
 
 Pick what you need then copy or symlink the files to where they should be.
+
+[Back to top](#customized)
+
+## Windows Terminal
+
+Copy the content of the scheme JSON file into the `settings.json` file of
+_Windows Terminal_ in the `schemes` array.
 
 [Back to top](#customized)
 
